@@ -170,6 +170,16 @@ header{
     bottom: 0;
     padding-bottom: 8px;
 }
+.email-fill input[type='submit']:hover{
+    background:url(../images/send-icon-hover.png) no-repeat;
+    cursor: pointer;
+    border: none;
+    position: absolute;
+    width: 18px;
+    right: 0;
+    bottom: 0;
+    padding-bottom: 8px;
+}
 /* newsletter end */
 
 /* cta start */
